@@ -1,0 +1,9 @@
+(1) organize books by rule: alphabetical > publication date > file @organize +Maintain
+import, remove, move, and copy books @organize +Maintain
+sync backup with external hard disk @repository +Maintain
+sync backup with cloud storage @repository +Maintain
+auto select cloud storage to backup @repository +Maintain
+browse books by tag @search +Maintain
+browse books by book's title or author name @search +Maintain
+browse books by popularity @search +Maintain
+browse books by fuzzy search @search +Maintain
