@@ -1,10 +1,10 @@
-name := "Bookcase"
+name := "Bookcase Core"
 
 version := "1.0.0"
 
 startYear := Some(2013)
 
-description := "Just another e-book collections management software."
+description := "Core component of Bookcase software."
 
 organization := "Darong Mean"
 
@@ -16,6 +16,3 @@ scalaVersion := "2.10.0"
 
 resolvers ++= Seq("snapshots" at "http://oss.sonatype.org/content/repositories/snapshots/",
                   "releases"  at "http://oss.sonatype.org/content/repositories/releases")
-
-libraryDependencies ++= Seq(
-    "org.specs2" % "specs2_2.10" % "1.13" % "test")                  
